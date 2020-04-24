@@ -24,6 +24,9 @@ And then execute:
 
     $ bundle
 
+for production
+    $ JEKYLL_ENV=production jekyll serve
+
 
 ## Contents At-A-Glance
 

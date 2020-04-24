@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,8 +21,8 @@
 title: Indigno de ser humano, el devenir.
 email: kinichi@tuta.io
 author: Kinichi
-description: >- # this means to ignore newlines until "baseurl:" 
- Testigo impasible de la cotidianidad que en inusitadas ocasiones se estremece en lo baladí de la voluntad existencial. En mis postrimerías quedará el registro de lo que no fue. 
+description: >- # this means to ignore newlines until "baseurl:"
+ Testigo impasible de la cotidianidad que en inusitadas ocasiones se estremece en lo baladí de la voluntad existencial. En mis postrimerías quedará el registro de lo que no fue.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ______
@@ -33,10 +33,13 @@ github_username:  kinichi
 theme: minima
 plugins:
   - jekyll-feed
-  
+
 disqus:
- shortname: kinichi
- 
+ shortname: https-kinichi-github-io
+
+google_analytics: UA-NNNNNNNN-N
+#show_excerpts: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -56,4 +59,3 @@ disqus:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-

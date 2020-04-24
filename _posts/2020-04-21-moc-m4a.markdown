@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Reproducir archivos m4a en moc - debian sid"
+title:  "Reproducir archivos m4a en moc"
 date:   2020-04-21 08:00:00 -0500
-categories: Debian Música
+categories: Debian Música MOC ffmpeg m4a
 tags: moc debian sid m4a ffmpeg
 sidebar: my_sidebar
-summary: "This is some summary frontmatter for my sample post."
+summary: "Vaya sorpresa me llevé al ver que MOC se negaba a reconocer mis recientemente pirateados archivos M4A. La solución fue extremadamente sencilla, aunque no inmediata."
 #author: kinichi
 #permalink: "/debian/MOC/"
-#{{page.categories | capitalize | join: ', '}}
+
 ---
 
 Cantar y canción
-
